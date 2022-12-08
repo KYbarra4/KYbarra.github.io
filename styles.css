@@ -1,0 +1,33 @@
+/* <style> */
+h1 {
+  margin-bottom: 15px;
+  font-size: 60px;
+  text-align: center;
+  color:blue;
+}
+p {
+    margin-bottom: 15px;
+    font-size: 16px;
+    text-align: center;
+    color: rgb(236, 78, 231);
+}
+h3 {
+    margin-bottom: 15px;
+    font-size: 16px;
+    text-align: center;
+    color: rgb(72, 214, 77);
+}
+img {
+    left: 400px;
+}
+tr {
+    margin-bottom: 15px;
+    font-size: 24px;
+    text-align: center;
+}
+table {
+    text-align: center;
+}
+/* <lin krel="stylesheet" type="text/css" href="style.css"> */
+
+/* </style> */
